@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Sessions
+parent_type: SupplementalResourceSection
 parent_uid: c5cf8c5e-59b0-bc3e-51ba-6284d467e6d6
 title: 'Session 3: Valuation and Subsidy Measures'
 uid: 219fe568-e41d-dc10-9cf5-bce77c008a10

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Calendar
 uid: 95a3d99b-4964-c421-a20e-eb84f9477109
 ---

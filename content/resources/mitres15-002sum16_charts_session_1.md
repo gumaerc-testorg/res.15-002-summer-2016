@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Charts for session 1.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016/aa075cb034aab2b9a9d3ba4a7aca8814_MITRES15-002SUM16_CHARTS_Session_1.xlsx
+file: /media/courses/res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016/aa075cb034aab2b9a9d3ba4a7aca8814_MITRES15-002SUM16_CHARTS_Session_1.xlsx
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Session 1: Program Objectives - Understanding Mission and How Best
+  to Achieve It'
+parent_type: SupplementalResourceSection
 resourcetype: Other
 title: MITRES15-002SUM16_CHARTS_Session_1.xlsx
 uid: aa075cb0-34aa-b2b9-a9d3-ba4a7aca8814

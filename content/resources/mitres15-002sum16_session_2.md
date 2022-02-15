@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: Slide deck for session 2.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016/035d701cafda6a6a34076c38459fdeda_MITRES15-002SUM16_Session_2.pdf
+file: /media/courses/res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016/035d701cafda6a6a34076c38459fdeda_MITRES15-002SUM16_Session_2.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Session 2: Considerations in Program and Product Design'
+parent_type: SupplementalResourceSection
 resourcetype: Document
 title: 'Session 2 Slides: Considerations in Program and Product Design - RES.15-002
   - Summer 2016'

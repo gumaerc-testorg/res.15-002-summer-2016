@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Tools
+ocw_type: SupplementalResourceSection
 title: Tools
 uid: 029d4591-7a8c-3e6c-daef-9b7a067f756e
 ---
