@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: SupplementalResourceSection
+parent_uid: 029d4591-7a8c-3e6c-daef-9b7a067f756e
 resourcetype: Other
 title: The MM2 Federal Program Calculator (MM2FPC)
 uid: d4d679ed-79ff-6a83-3da4-18888e4ff4d5

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 4: Credit Portfolio Costs and Managing Performance'
 parent_type: SupplementalResourceSection
+parent_uid: 6907be93-d863-028a-af71-629ccb976e53
 resourcetype: Other
 title: MITRES15-002SUM16_CHARTS_Session_4.xlsx
 uid: f0df565f-316d-d00e-e5d6-eef0d0ceacb3

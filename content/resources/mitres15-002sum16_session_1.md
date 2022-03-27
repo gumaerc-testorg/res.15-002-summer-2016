@@ -8,6 +8,7 @@ ocw_type: OCWFile
 parent_title: 'Session 1: Program Objectives - Understanding Mission and How Best
   to Achieve It'
 parent_type: SupplementalResourceSection
+parent_uid: 6712229f-d71f-3221-ea88-ce00d32d3866
 resourcetype: Document
 title: 'Session 1 Slides: Introduction and Program Objectives - RES.15-002 - Summer
   2016'

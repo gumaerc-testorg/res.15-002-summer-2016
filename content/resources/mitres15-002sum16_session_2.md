@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 2: Considerations in Program and Product Design'
 parent_type: SupplementalResourceSection
+parent_uid: 4215d186-7d4f-8eba-8477-4b8d85ec43fc
 resourcetype: Document
 title: 'Session 2 Slides: Considerations in Program and Product Design - RES.15-002
   - Summer 2016'

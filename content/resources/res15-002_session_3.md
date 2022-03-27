@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 3: Valuation and Subsidy Measures'
 parent_type: SupplementalResourceSection
+parent_uid: 219fe568-e41d-dc10-9cf5-bce77c008a10
 resourcetype: Image
 title: Session 3 Title Slate
 uid: ed32ebd8-6612-ff03-198a-d321fbc0c49e

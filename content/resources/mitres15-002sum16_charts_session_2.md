@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 2: Considerations in Program and Product Design'
 parent_type: SupplementalResourceSection
+parent_uid: 4215d186-7d4f-8eba-8477-4b8d85ec43fc
 resourcetype: Other
 title: MITRES15-002SUM16_CHARTS_Session_2.xlsx
 uid: 9aa676d5-ef06-118b-27ad-8d42dbb89ff2

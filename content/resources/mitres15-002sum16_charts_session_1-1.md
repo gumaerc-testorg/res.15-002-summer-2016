@@ -8,6 +8,7 @@ ocw_type: OCWFile
 parent_title: 'Session 1: Program Objectives - Understanding Mission and How Best
   to Achieve It'
 parent_type: SupplementalResourceSection
+parent_uid: 6712229f-d71f-3221-ea88-ce00d32d3866
 resourcetype: Document
 title: Charts for Session 1 - RES.15-002 - Mission and Metrics
 uid: 22204775-2ff7-e8f2-b0de-227c5cfabac9

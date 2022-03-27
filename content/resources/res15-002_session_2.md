@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 2: Considerations in Program and Product Design'
 parent_type: SupplementalResourceSection
+parent_uid: 4215d186-7d4f-8eba-8477-4b8d85ec43fc
 resourcetype: Image
 title: Session 2 Title Slate
 uid: 926a807d-d3b3-ff4b-957e-a250cb3ba80d

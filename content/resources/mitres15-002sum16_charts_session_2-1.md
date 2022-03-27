@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 2: Considerations in Program and Product Design'
 parent_type: SupplementalResourceSection
+parent_uid: 4215d186-7d4f-8eba-8477-4b8d85ec43fc
 resourcetype: Document
 title: Charts for Session 2 - RES.15-002 - Mission and Metrics
 uid: a894ec3a-eae0-1cc0-5305-db3240b0db25

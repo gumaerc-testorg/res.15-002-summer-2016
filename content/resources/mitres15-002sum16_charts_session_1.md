@@ -8,6 +8,7 @@ ocw_type: OCWFile
 parent_title: 'Session 1: Program Objectives - Understanding Mission and How Best
   to Achieve It'
 parent_type: SupplementalResourceSection
+parent_uid: 6712229f-d71f-3221-ea88-ce00d32d3866
 resourcetype: Other
 title: MITRES15-002SUM16_CHARTS_Session_1.xlsx
 uid: aa075cb0-34aa-b2b9-a9d3-ba4a7aca8814

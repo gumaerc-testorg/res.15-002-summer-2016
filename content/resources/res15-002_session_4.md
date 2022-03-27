@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 4: Credit Portfolio Costs and Managing Performance'
 parent_type: SupplementalResourceSection
+parent_uid: 6907be93-d863-028a-af71-629ccb976e53
 resourcetype: Image
 title: Session 4 Title Slate
 uid: 092224d8-7225-3d47-1326-25bdfc79b160

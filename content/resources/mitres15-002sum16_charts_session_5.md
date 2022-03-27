@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 5: Working with Private Partners'
 parent_type: SupplementalResourceSection
+parent_uid: c6c2c186-1456-9ef4-75ed-ce90dbaf7325
 resourcetype: Other
 title: MITRES15-002SUM16_CHARTS_Session_5.xlsx
 uid: 5b3b512a-df71-8d3f-6ca8-a2dc9e09e0dc

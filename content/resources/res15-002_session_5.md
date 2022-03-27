@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 5: Working with Private Partners'
 parent_type: SupplementalResourceSection
+parent_uid: c6c2c186-1456-9ef4-75ed-ce90dbaf7325
 resourcetype: Image
 title: Session 5 Title Slate
 uid: d77d319d-b23a-f9b8-bc36-93c284ff9591

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 3: Valuation and Subsidy Measures'
 parent_type: SupplementalResourceSection
+parent_uid: 219fe568-e41d-dc10-9cf5-bce77c008a10
 resourcetype: Document
 title: 'Session 3 Slides: Valuation and Subsidy Measures - RES.15-002 - Summer 2016'
 uid: 394e1778-12d3-6a8d-b3f9-e1fba364ec6e

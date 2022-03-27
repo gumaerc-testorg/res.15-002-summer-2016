@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 4: Credit Portfolio Costs and Managing Performance'
 parent_type: SupplementalResourceSection
+parent_uid: 6907be93-d863-028a-af71-629ccb976e53
 resourcetype: Document
 title: Charts for Session 4 - RES.15-002 - Mission and Metrics
 uid: 2304ece9-903e-c5d3-7e92-338e06d36695

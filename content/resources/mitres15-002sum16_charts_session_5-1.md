@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 5: Working with Private Partners'
 parent_type: SupplementalResourceSection
+parent_uid: c6c2c186-1456-9ef4-75ed-ce90dbaf7325
 resourcetype: Document
 title: Charts for Session 5 - RES.15-002 - Mission and Metrics
 uid: 95522a82-1985-6649-2ffd-5ee114bc59fe
