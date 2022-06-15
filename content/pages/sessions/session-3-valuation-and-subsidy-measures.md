@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section contains the description and materials for Session 3: Valuation
+  and Subsidy Measures.'
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Sessions
@@ -42,9 +44,9 @@ Interactive
 Lecture Slides
 --------------
 
-[![Image of the Session 3 slide deck title page.]({{< resource_file ed32ebd8-6612-ff03-198a-d321fbc0c49e >}})]({{< baseurl >}}/resources/mitres15-002sum16_session_3)
+{{< resource uuid="ed32ebd8-6612-ff03-198a-d321fbc0c49e" href_uuid="394e1778-12d3-6a8d-b3f9-e1fba364ec6e" >}}
 
-[Session 3 Slides: Valuation and Subsidy Measures (PDF)]({{< baseurl >}}/resources/mitres15-002sum16_session_3)
+{{% resource_link 394e1778-12d3-6a8d-b3f9-e1fba364ec6e "Session 3 Slides: Valuation and Subsidy Measures (PDF)" %}}
 
 Charts
 ------

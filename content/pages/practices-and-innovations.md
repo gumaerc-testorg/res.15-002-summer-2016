@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section lists examples of policy and performance innovations at
+  the federal credit agencies.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Practices and Innovations

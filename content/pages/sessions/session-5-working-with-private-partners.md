@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section contains the description and materials for Session 5: Working
+  with Private Partners.'
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Sessions
@@ -50,9 +52,9 @@ Interactive
 Lecture Slides
 --------------
 
-[![Image of the Session 5 slide deck title page.]({{< resource_file d77d319d-b23a-f9b8-bc36-93c284ff9591 >}})]({{< baseurl >}}/resources/mitres15-002sum16_session_5)
+{{< resource uuid="d77d319d-b23a-f9b8-bc36-93c284ff9591" href_uuid="4625a14d-141b-9105-e078-e820bbaf2269" >}}
 
-[Session 5 Slides: Working with Private Partners (PDF)]({{< baseurl >}}/resources/mitres15-002sum16_session_5)
+{{% resource_link 4625a14d-141b-9105-e078-e820bbaf2269 "Session 5 Slides: Working with Private Partners (PDF)" %}}
 
 Charts
 ------
@@ -79,4 +81,4 @@ Chart 5.10: Graduated Remedies for Participating Lenders with Poor Ratings
 
 Chart 5.11: Quick Track of the Portfolio Trend and the Outliers
 
-Chart Files: [Charts for Session 5 (XLSX)]({{< baseurl >}}/resources/mitres15-002sum16_charts_session_5); [Charts for Session 5 (PDF)]({{< baseurl >}}/resources/mitres15-002sum16_charts_session_5-1)
+Chart Files: {{% resource_link 5b3b512a-df71-8d3f-6ca8-a2dc9e09e0dc "Charts for Session 5 (XLSX)" %}}; {{% resource_link 95522a82-1985-6649-2ffd-5ee114bc59fe "Charts for Session 5 (PDF)" %}}

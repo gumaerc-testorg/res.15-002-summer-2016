@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section contains the description and materials for Session 1: Program
+  Objectives. '
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Sessions
@@ -49,9 +51,9 @@ Interactive
 Lecture Slides
 --------------
 
-[![Image of the Session 1 slide deck title page.]({{< resource_file 080713cd-7130-a915-5930-ecc1ad2c12bc >}})]({{< baseurl >}}/resources/mitres15-002sum16_session_1)
+{{< resource uuid="080713cd-7130-a915-5930-ecc1ad2c12bc" href_uuid="e3d14fc3-d22b-c05a-0a17-99df0fd1eb56" >}}
 
-[Session 1 Slides: Introduction and Program Objectives (PDF)]({{< baseurl >}}/resources/mitres15-002sum16_session_1)
+{{% resource_link e3d14fc3-d22b-c05a-0a17-99df0fd1eb56 "Session 1 Slides: Introduction and Program Objectives (PDF)" %}}
 
 Charts
 ------
@@ -80,4 +82,4 @@ Chart 1.11: Commercial Banks with Assets Greater than $3 Billion (EOY)
 
 Chart 1.12: Metrics that Define the Asset
 
-**Chart Files:** [Charts for Session 1 (XLSX)]({{< baseurl >}}/resources/mitres15-002sum16_charts_session_1); [Charts for Session 1 (PDF)]({{< baseurl >}}/resources/mitres15-002sum16_charts_session_1-1)
+**Chart Files:** {{% resource_link aa075cb0-34aa-b2b9-a9d3-ba4a7aca8814 "Charts for Session 1 (XLSX)" %}}; {{% resource_link 22204775-2ff7-e8f2-b0de-227c5cfabac9 "Charts for Session 1 (PDF)" %}}

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section contains the description and materials for Session 4: Credit
+  Portfolio Costs and Managing Performance.'
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Sessions
@@ -50,9 +52,9 @@ Interactive
 Lecture Slides
 --------------
 
-[![Image of the Session 4 slide deck title page.]({{< resource_file 092224d8-7225-3d47-1326-25bdfc79b160 >}})]({{< baseurl >}}/resources/mitres15-002sum16_session_4)
+{{< resource uuid="092224d8-7225-3d47-1326-25bdfc79b160" href_uuid="55b885bb-3874-c937-dcc8-a44fb3b70fbb" >}}
 
-[Session 4 Slides: Managing Operating Costs and Credit Risk (PDF)]({{< baseurl >}}/resources/mitres15-002sum16_session_4)
+{{% resource_link 55b885bb-3874-c937-dcc8-a44fb3b70fbb "Session 4 Slides: Managing Operating Costs and Credit Risk (PDF)" %}}
 
 Charts
 ------
@@ -85,4 +87,4 @@ Chart 4.13: Key Credit Risk Data Points
 
 Chart 4.14: Conversion Application for Comparative Analysis: From Credit Reform Calculations to Standard Institutional Reporting
 
-Chart Files: [Charts for Session 4 (XLSX)]({{< baseurl >}}/resources/mitres15-002sum16_charts_session_4); [Charts for Session 4 (PDF)]({{< baseurl >}}/resources/mitres15-002sum16_charts_session_4-1)
+Chart Files: {{% resource_link f0df565f-316d-d00e-e5d6-eef0d0ceacb3 "Charts for Session 4 (XLSX)" %}}; {{% resource_link 2304ece9-903e-c5d3-7e92-338e06d36695 "Charts for Session 4 (PDF)" %}}

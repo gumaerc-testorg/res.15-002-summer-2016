@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section contains the description and materials for Session 6: Case
+  Studies.'
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Sessions

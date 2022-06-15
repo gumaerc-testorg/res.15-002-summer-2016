@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides meeting times, prerequisites, an overview of the
+  course and the session topics.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Syllabus

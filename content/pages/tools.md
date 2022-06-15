@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides information about various tools and financial software.
 learning_resource_types:
 - Tools
 ocw_type: SupplementalResourceSection
@@ -29,4 +30,4 @@ The logic of the calculator is simple, and the assumptions are those that are ma
 
 _It can take as little as 5 minutes to run a complete financial scenario “from soup to nuts.”_
 
-**MM2FPC Tool:** [MM2FPC (XLSX - 2.4MB)]({{< baseurl >}}/resources/mm2fpc_ver1pt94)
+**MM2FPC Tool:** {{% resource_link d4d679ed-79ff-6a83-3da4-18888e4ff4d5 "MM2FPC (XLSX - 2.4MB)" %}}

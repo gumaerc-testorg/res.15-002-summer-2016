@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section contains the description and materials for Session 2: Considerations
+  in Program and Product Design.'
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Sessions
@@ -44,9 +46,9 @@ Interactive
 Lecture Slides
 --------------
 
-[![Image of the Session 2 slide deck title page.]({{< resource_file 926a807d-d3b3-ff4b-957e-a250cb3ba80d >}})]({{< baseurl >}}/resources/mitres15-002sum16_session_2)
+{{< resource uuid="926a807d-d3b3-ff4b-957e-a250cb3ba80d" href_uuid="035d701c-afda-6a6a-3407-6c38459fdeda" >}}
 
-[Session 2 Slides: Considerations in Program and Product Design (PDF)]({{< baseurl >}}/resources/mitres15-002sum16_session_2)
+{{% resource_link 035d701c-afda-6a6a-3407-6c38459fdeda "Session 2 Slides: Considerations in Program and Product Design (PDF)" %}}
 
 Charts
 ------
@@ -75,4 +77,4 @@ Chart 2.11: BUT - Downside Risk
 
 Chart 2.12 Downside Risk
 
-**Chart Files:** [Charts for Session 2 (XLSX)]({{< baseurl >}}/resources/mitres15-002sum16_charts_session_2); [Charts for Session 2 (PDF)]({{< baseurl >}}/resources/mitres15-002sum16_charts_session_2-1)
+**Chart Files:** {{% resource_link 9aa676d5-ef06-118b-27ad-8d42dbb89ff2 "Charts for Session 2 (XLSX)" %}}; {{% resource_link a894ec3a-eae0-1cc0-5305-db3240b0db25 "Charts for Session 2 (PDF)" %}}
