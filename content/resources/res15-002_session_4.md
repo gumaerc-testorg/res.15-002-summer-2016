@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Image of the Session 4 slide deck title page.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Session 4: Credit Portfolio Costs and Managing Performance'
 parent_type: SupplementalResourceSection
@@ -17,4 +18,3 @@ title: Session 4 Title Slate
 uid: 092224d8-7225-3d47-1326-25bdfc79b160
 ---
 Title slate for session 4.
-

@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Image of the Session 3 slide deck title page.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Session 3: Valuation and Subsidy Measures'
 parent_type: SupplementalResourceSection
@@ -17,4 +18,3 @@ title: Session 3 Title Slate
 uid: ed32ebd8-6612-ff03-198a-d321fbc0c49e
 ---
 Title slate for session 3.
-

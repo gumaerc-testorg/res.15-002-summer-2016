@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Image of the Session 1 slide deck title page.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Session 1: Program Objectives - Understanding Mission and How Best
   to Achieve It'
@@ -18,4 +19,3 @@ title: Session 1 Title Slate
 uid: 080713cd-7130-a915-5930-ecc1ad2c12bc
 ---
 Title slate for session 1.
-

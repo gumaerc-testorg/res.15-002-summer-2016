@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Image of the Session 2 slide deck title page.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Session 2: Considerations in Program and Product Design'
 parent_type: SupplementalResourceSection
@@ -17,4 +18,3 @@ title: Session 2 Title Slate
 uid: 926a807d-d3b3-ff4b-957e-a250cb3ba80d
 ---
 Title slate for session 2.
-
