@@ -2,6 +2,7 @@
 content_type: resource
 description: Charts for session 5.
 file: /courses/res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016/95522a82198566492ffd5ee114bc59fe_MITRES15-002SUM16_CHARTS_Session_5.pdf
+file_size: 259307
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
