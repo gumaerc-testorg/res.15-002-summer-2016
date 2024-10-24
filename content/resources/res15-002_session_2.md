@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Title slate for session 2.
-file: /courses/res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016/926a807dd3b3ff4b957ea250cb3ba80d_RES15-002_Session_2.jpg
+file: /ol-ocw-studio-app/courses/res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016/926a807dd3b3ff4b957ea250cb3ba80d_RES15-002_Session_2.jpg
 file_size: 70977
 file_type: image/jpeg
 image_metadata:
