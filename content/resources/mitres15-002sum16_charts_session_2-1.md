@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Charts for session 2.
-file: /courses/res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016/a894ec3aeae01cc05305db3240b0db25_MITRES15-002SUM16_CHARTS_Session_2.pdf
+file: /ol-ocw-studio-app/courses/res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016/a894ec3aeae01cc05305db3240b0db25_MITRES15-002SUM16_CHARTS_Session_2.pdf
 file_size: 355305
 file_type: application/pdf
 learning_resource_types: []
