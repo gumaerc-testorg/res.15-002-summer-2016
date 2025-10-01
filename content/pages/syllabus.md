@@ -23,7 +23,7 @@ About
 
 The content in this resource is based on a short program designed by the MIT Golub Center for Finance and Policy (GCFP): An invitation-only course with two days of classroom instruction and online learning materials.
 
-The GCFP serves as a catalyst for innovative, cross-disciplinary and non-partisan research and educational initiatives addressing the unique challenges facing governments in their role as financial institutions and as regulators of the financial system. [Learn more at the GCFP website](http://cfpweb.mit.edu).
+The GCFP serves as a catalyst for innovative, cross-disciplinary and non-partisan research and educational initiatives addressing the unique challenges facing governments in their role as financial institutions and as regulators of the financial system. {{% resource_link "12c06d53-b85f-4190-94ae-a809277dff27" "Learn more at the GCFP website" %}}.
 
 Overview
 --------
