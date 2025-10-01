@@ -10,9 +10,9 @@ file_type: image/jpeg
 image_metadata:
   caption: "Seen from Killian Court, The Great Dome of the Massachusetts Institute\
     \ of Technology crowns Building 10, which was designed in the style of the Pantheon.\
-    \ The Maclaurin Buildings (3, 4, and 10) were built in 1916. (Courtesy of [David\
-    \ Wiley](https://www.flickr.com/photos/davidwiley/118814371/) on Flickr. \_License:\
-    \ CC BY.)"
+    \ The Maclaurin Buildings (3, 4, and 10) were built in 1916. (Courtesy of {{%\
+    \ resource_link \"61903fb8-2bcf-4bc6-8c3c-f6daac2554a5\" \"David Wiley\" %}} on\
+    \ Flickr. \_License: CC BY.)"
   credit: 'Courtesy of David Wiley on Flickr. License: CC BY.'
   image-alt: Building with ionic columns and large dome shown from a grassy courtyard.
 learning_resource_types: []
